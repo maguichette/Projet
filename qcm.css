@@ -1,0 +1,136 @@
+.font{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(5, 36, 38);
+}
+.logo{
+    margin-left: 30px;
+    height: 100%;
+    width:6%;
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+}
+.para{
+    text-align: center;
+    margin-top: -60px;
+    color: white;
+    font-size: 20px;
+}
+body{
+    background-image: url(Images/img-bg.jpg);
+    margin: 0px;
+    padding: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.form{
+   width: 42%;
+    background-color: white;
+    height: 450px;
+   margin-top: 100px;
+   margin-left: 350px;
+   position: relative;
+  
+    }
+    .couleur{
+        width: 100%;
+        height: 100px;
+        background-color: rgb(81,191,208);
+    }
+    h1{
+        font-size: 20px;
+        color: white;
+        margin-left: 17px;
+        margin-top: 40px;
+        float: left;
+    }
+    .name{
+        
+        border:1px solid rgb(242, 242, 242);
+        height: 100%;
+        width:100%;
+        border-top-right-radius:5px;
+        border-bottom-right-radius:5px;
+        text-indent: 20px;
+        position: relative;
+        font-size: 25px;
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        text-size-adjust: 20px;
+     
+    }
+    .connex{
+        display: inline-block;
+        border:1px solid grey;
+        height: 60px;
+        width:170px;
+        border-radius:5px;
+        background: rgb(81,191,208);
+        color:#fff;
+        font-size:27px;
+    }    
+    .pass{
+        border:1px solid rgb(242, 242, 242);
+        height: 100%;
+        width:100%;
+        border-top-right-radius:5px;
+        border-bottom-right-radius:5px;
+        text-indent: 20px;
+        position: relative;
+        font-size: 25px;
+        border-bottom-left-radius: 5px;
+        border-top-left-radius: 5px;
+        text-size-adjust: 20px;
+     
+        
+     
+    }
+    .div2{
+        float: right ;
+        margin-top: 31px;
+        margin-right: 113px;
+        position: absolute;
+        padding:9px 20px 9px 20px;
+        
+    }
+    .post{
+        width: 530px;
+        height: 60px;
+        margin-left: 12px;
+        margin-top: 10px;
+    }
+    .div2 > img{
+        margin:  -90px 0px 0px 464px;
+        position: absolute;
+        border-top-left-radius:5px;
+        border-bottom-left-radius:5px;
+        width: 100%;
+    }
+    .post2{
+        width: 530px;
+        height: 60px;
+        margin-left: 12px;
+        margin-top: 10px;
+        margin-top: 30px;
+    }
+    p{
+        float: right;
+        margin-right: 140px;
+    }
+    .post3{
+        width: 530px;
+        height: 60px;
+        margin-left: 12px;
+        margin-top: 10px;
+        margin-top: 63px;
+    }
+    .error{
+        color: red;
+        font-size: 16px;
+        font-weight: bold;
+        width: 100%;
+    }

@@ -1,0 +1,106 @@
+[
+    {
+        "questions": "Quelle est la premiere ecole de codage du Senegal",
+        "points": "4",
+        "typreponse": "simple",
+        "reponses": [
+            {
+                "reponse": "Ecole Superieure de L'informatique",
+                "valide": "false"
+            },
+            {
+                "reponse": "Haute Ecole de l'informatique",
+                "valide": "false"
+            },
+            {
+                "reponse": "Sonatel Academie",
+                "valide": "true"
+            }
+        ]
+    },
+    {
+        "questions": "C'est quoi un bon menager? ",
+        "points": "2",
+        "typreponse": "multiple",
+        "reponses": [
+            {
+                "reponse": "animateur d'équipe ",
+                "valide": "true"
+            },
+            {
+                "reponse": "communiquer facilement",
+                "valide": "true"
+            },
+            {
+                "reponse": "il a une vision et inspire les personnes \u00e0 faire de cette vision une r\u00e9alit\u00e9",
+                "valide": "false"
+            }
+        ]
+    },
+    {
+        "questions": "Que signifie FMI",
+        "points": "12",
+        "typreponse": "simple",
+        "reponses": [
+            {
+                "reponse": "Federation des magistrats Integres",
+                "valide": "false"
+            },
+            {
+                "reponse": "Fonds Monnaie Internationale",
+                "valide": "false"
+            },
+            {
+                "reponse": "Fonds Monetaire International",
+                "valide": "true"
+            }
+        ]
+    },
+   
+    {
+        "questions": " Quelles sont les langages de programation ",
+        "points": "49",
+        "typreponse": "multiple",
+        "reponses": [
+            {
+                "reponse": "javascrip ",
+                "valide": "true"
+            },
+            {
+                "reponse": "php",
+                "valide": "true"
+            },
+            {
+                "reponse": "ODC",
+                "valide": "false"
+            }
+        ]
+    },
+    
+    {
+        "questions": "Qu'en pensez vous de la nouvelle technologie ?",
+        "points": "49",
+        "typreponse": "texte",
+        "reponse": " pertinent"
+    },
+    {
+        "questions": "Quelle est la plus belle ville du Senegal",
+        "points": "4",
+        "typreponse": "simple",
+        "reponses": [
+            {
+                "reponse": "Tambacounda",
+                "valide": "false"
+            },
+            {
+                "reponse": "kolda",
+                "valide": "false"
+            },
+            {
+                "reponse": "Saint Louis",
+                "valide": "true"
+            }
+        ]
+    }
+    
+]

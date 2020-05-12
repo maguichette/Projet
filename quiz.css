@@ -1,0 +1,211 @@
+body{
+    background-image: url("Images/img-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: rgb(5, 36, 38);
+    width: 100%;
+    height: auto;
+
+}
+.header .logo{
+    height: 120px;
+    width: 5%;
+    margin-left: 30px;
+    float: left;
+
+
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+
+}
+.header_title{
+
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 120px;
+}
+.header_title h3{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    margin: 0px;
+    padding-top: 30px;
+}
+.form{
+    height: 400px;
+    width: 40%;
+    float: left;
+    margin-top: 55px;
+    margin-left: 30px;
+}
+.white{
+    background-color:white;
+    float: left;
+    width: 100%;
+    height: 400px;
+    box-shadow: 7px 10px 10px rgba(0,0,0,0.5);
+    border-radius: 10px;
+}
+.header_white{
+    width: 100%;
+    height: 108px;
+    background-color: rgb(81, 191, 208);
+    padding-top: 12px;
+}
+.header_white h3{
+    font-size: 25px;
+    color: white;
+    float: left;
+    margin-left: 20px;
+    margin-top: 32px;
+}
+.background{
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: rgb(242, 242, 242);
+    height: 750px;
+    margin-top: 10px;
+}
+.background_header{
+    text-align: center;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(81, 191, 208);
+    margin-bottom: 30px;
+}
+h2{
+    padding: 25px;
+    margin: 0px;
+    color: white;
+    float: left;
+    margin-left: 30%
+}
+button{
+   
+    margin-right: 5%;
+   
+    
+    color: white;
+}
+.round{
+    width: 85px;
+    height: 85px;
+    border: 1px solid rgb(108, 148, 150);
+    border-radius: 50%;
+    margin-left: 65px;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: left;
+}
+.round .image{
+
+    width: 75px;
+    height: 75px;
+
+}
+.image img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.prenom_nom{
+    float: left;
+    margin-top: 25px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.nom{
+    margin-left: 68px;
+}
+.logout{
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    cursor: pointer;
+    float: right;
+    margin-top: 20px;
+    border: none;
+    background-color: rgb(57, 221, 214);
+    width: 10%;
+    height: 38%;
+}
+ul{
+    margin: 0px;
+}
+ul li{
+    list-style: none;
+    float: left;
+    font-size: 25px;
+    color: rgb(141, 128, 112);
+}
+
+
+ul li a{
+    text-decoration: none;
+}
+.menu{
+    padding: 10px;
+    height: 25px;
+    margin-bottom: 15px;
+}
+.menu img{
+    float: right;
+    margin-right: 10px;
+}
+.right{
+    float: right;
+    height: 515px;
+    width: 50%;
+    margin-right: 30px;
+}
+.white-right {
+    background-color: white;
+    float: left;
+    width: 100%;
+    /* height: 630px; */
+    box-shadow: 7px 10px 10px rgba(0,0,0,0.5);
+    border-radius: 10px;
+
+}
+.nbr_question{
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 40px;
+    margin-top: 10px;
+}
+.nbr-question_field{
+    width: 60px;
+    height: 30px;
+    margin-right: 20px;
+    margin-left: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+.ok{
+    border: none;
+    width: 15%;
+    height: 75%;
+    background-color: rgb(81, 191, 208);
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    color: white;
+}
+.content{
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 470px;
+    border: 1px solid rgb(81, 191, 208);
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 7px 10px 20px rgba(0,0,0,0.5);
+    text-align: left;
+
+}

@@ -1,0 +1,171 @@
+.font{
+    height: 70px;
+    width: 100%;
+    background-color: rgb(5, 36, 38);
+}
+.logo{
+    margin-left: 30px;
+    height: 100%;
+    width:6%;
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+}
+.para{
+    text-align: center;
+    margin-top: -60px;
+    color: white;
+    font-size: 20px;
+}
+body{
+    background-image: url(Images/img-bg.jpg);
+    margin: 0px;
+    padding: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.form{
+   width: 88%;
+   background-color: white;
+    height: 700px;
+   position: relative;
+   margin-left: 72px;
+  
+    }
+    .couleur{
+        width: 100%;
+        height: 100px;
+        background-color: rgb(81,191,208);
+    }
+    h1{
+        font-size: 40px;
+        color: white;
+        margin-left: 185px;
+        margin-top: 40px;
+        float: left;
+        text-align: center;
+    }
+    .connex{
+        display: inline-block;
+        height: 60px;
+        width:170px;
+        background: rgb(81,191,208);
+        color:#fff;
+        font-size:27px;
+        margin-left: 110px;
+        margin-top: 20px;
+    }    
+    .monprofil{
+        width: 80%;
+        background-color: white;
+        height: 60%;
+        float: left;
+        
+    }
+    h2{
+        font-size: 30px;
+        margin-right: 70%;
+        color: black;
+    }
+     h3{
+        font-size: 15px;
+        margin-right: 70%;
+        margin-top: -2%;
+        color: gray;
+    }
+    .bar{
+        width: 70%;
+        height: 1%;
+        background-color: grey;
+    }
+    label{
+        width: 32%;
+        height: 22px;
+        font-size: 20px;
+        color: black;
+        float: right;
+        margin-right: 62%;
+        
+    }
+    input[type="text"]{
+        border-radius: 0%;
+        margin-right: -10% ;
+        width: 90%;
+        height: 14%;
+    }
+    input[type="nom"]{
+        border-radius: 0%;
+        margin-right: -10% ;
+        width: 90%;
+        height: 14%;
+    }
+    input[type="login"]{
+        border-radius: 0%;
+        margin-right: -10% ;
+        width: 90%;
+        height: 14%;
+    }
+    input[type="password"]{
+        border-radius: 0%;
+        margin-right: -10% ;
+        width: 90%;
+        height: 14%;
+    }
+    input[type="confirmer password"]{
+        border-radius: 0%;
+        margin-right: -10% ;
+        width: 90%;
+        height: 14%;
+    }
+    .myinput{
+        width: 60%;
+        height: 80%;
+    
+    }
+    .myprofil{
+        width: 250px;
+        height: 250px;
+        border: 1px solid black;
+        float: right;
+       margin-right: -13%;
+        margin-top: -50%;
+        border-radius: 50%;
+    }
+    .myprofil #img{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+    }
+    p.jouer{
+        color: black;
+        font-size: 30px;
+        float: right;
+        margin-top: -20%;
+    }
+    #btn1{
+        margin-top: 6%;
+        margin-left: 40%;
+        background-color:rgba(0, 195, 255, 0.979) ;
+    }
+    .btn2{
+        background-color: rgba(0, 195, 255, 0.979);
+        margin-top: 5%;
+        float: left;
+        margin-left: 40%;
+    }
+    p.avatar{
+font-size: 20px;
+float: left;
+margin-left: 7%;
+color: black;
+    }
+    form{
+        height: 320px;
+    }
+    .error{
+        color: red;
+        font-size: 16px;
+        font-weight: bold;
+        width: 100%;
+    }

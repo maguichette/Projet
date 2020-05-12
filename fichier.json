@@ -1,0 +1,172 @@
+[
+    {
+        "Login": "maguichette",
+        "password": "yasmine",
+        "role": "admin",
+        "prenom": "maguette",
+        "nom": "gueye",
+        "avatar": "avatar\/FB_IMG_1492102328783.jpg"
+    },
+    {
+        "Login": "yasmine",
+        "password": "yasmine",
+        "role": "admin",
+        "prenom": "maguette",
+        "nom": "gueye",
+        "avatar": "avatar\/FB_IMG_1492102328783.jpg"
+    },
+    {
+        "Login": "magui",
+        "password": "madise",
+        "role": "joueur",
+        "prenom": "madise",
+        "nom": "seck",
+        "avatar": "avatar/13495265_1719707671637373_622873276949554619_n.jpg",
+        "score": "120"
+    },
+    {
+        "prenom": "anna",
+        "nom": "gueye",
+        "login": "annamadise@gmail.com",
+        "password": "anna",
+        "role": "joueur",
+        "score": "1200"
+    },
+    {
+        "prenom": "ndeye",
+        "nom": "gueye",
+        "login": "fhjhjfsjfhuryun",
+        "password": "rrrr",
+        "role": "joueur",
+        "score": "997"
+    },
+    {
+        "prenom": "astou",
+        "nom": "SECK",
+        "login": "bbbbbbbb",
+        "password": "aaaa",
+        "role": "joueur",
+        "score": "830"
+    },
+    {
+        "prenom": "bintou",
+        "nom": "gueye",
+        "login": "ppppppp",
+        "password": "pppp",
+        "role": "joueur",
+        "score": "740"
+    },
+    {
+        "prenom": "anna",
+        "nom": "fall",
+        "login": "rrrrrrr",
+        "password": "cccc",
+        "role": "joueur",
+        "score": "700"
+    },
+    {
+        "prenom": "ndeye",
+        "nom": "sarr",
+        "login": "sarr",
+        "password": "sarr",
+        "role": "joueur",
+        "score": "690"
+    },
+    {
+        "prenom": "seydou",
+        "nom": "SECK",
+        "login": "seck",
+        "password": "seck",
+        "role": "joueur",
+        "score": "680"
+    },
+    {
+        "prenom": "rama",
+        "nom": "SECK",
+        "login": "rama",
+        "password": "rama",
+        "role": "joueur",
+        "score": "670"
+    },
+    {
+        "prenom": "amina",
+        "nom": "diop",
+        "login": "amina",
+        "password": "amina",
+        "role": "joueur",
+        "score": "660"
+    },
+    {
+        "prenom": "rougui",
+        "nom": "diop",
+        "login": "rougui",
+        "password": "rougui",
+        "role": "joueur",
+        "score": "550"
+    },
+    {
+        "prenom": "saly",
+        "nom": "diop",
+        "login": "saly",
+        "password": "saly",
+        "role": "joueur",
+        "score": "470"
+    },
+    {
+        "prenom": "anna",
+        "nom": "diallo",
+        "login": "diallo",
+        "password": "diallo",
+        "role": "joueur",
+        "score": "420"
+    },
+    {
+        "prenom": "aida",
+        "nom": "diallo",
+        "login": "aida",
+        "password": "aida",
+        "role": "joueur",
+        "score": "300"
+    },
+    {
+        "prenom": "aydi",
+        "nom": "ayda",
+        "login": "aydi",
+        "password": "aydi",
+        "role": "joueur",
+        "score": "220"
+    },
+    {
+        "prenom": "bira",
+        "nom": "gaye",
+        "login": "bira",
+        "password": "bira",
+        "role": "joueur",
+        "score": "100"
+    },
+    {
+        "prenom": "tinane",
+        "nom": "gaye",
+        "login": "tinane",
+        "password": "tinane",
+        "role": "joueur",
+        "score": "0"
+    },
+    {
+        "prenom": "tabaski",
+        "nom": "sy",
+        "login": "tabaski",
+        "password": "tabaski",
+        "role": "joueur",
+        "score": "0"
+    },
+    {
+        "prenom": "astou",
+        "nom": "fall",
+        "login": "fall",
+        "password": "fall",
+        "role": "joueur",
+        "score": "0"
+    }
+   
+]
